@@ -17,10 +17,10 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- category
-- tag
-- tagcloud
-- archive
+# - category
+# - tag
+# - tagcloud
+# - archive
 - recent_posts
 
 # display widgets at the bottom of index pages (pagination == 2)
@@ -37,7 +37,7 @@ show_count: false
 google_analytics:
 gauges_analytics:
 favicon: /favicon.png
-twitter:
+twitter: ldnclj
 google_plus:
 fb_admins:
 fb_app_id:
