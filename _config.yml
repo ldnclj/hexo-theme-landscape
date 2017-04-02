@@ -1,7 +1,13 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+  Meetup: https://meetup.com/London-Clojurians
+  Calendar: https://www.meetup.com/London-Clojurians/events/
+  Coding Dojos: /coding-dojos/
+  Skillscasts: https://skillsmatter.com/explore?content=skillscasts&location=&q=clojure
+  Mailing List: http://groups.google.com/group/london-clojurians
+  Jobs List: https://groups.google.com/forum/#!forum/london-clojurian-jobs
+  Code of Conduct: /code-of-conduct/
 rss: /atom.xml
 
 # Content
